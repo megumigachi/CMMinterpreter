@@ -1,2 +1,2 @@
 # CMMinterpreter
-一个简单的cmm解释其
+一个简单的cmm解释器
